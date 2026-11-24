@@ -1,0 +1,82 @@
+[
+  {
+    "cell_id": "DEL-TOW-101",
+    "name": "Aerocity Sector 4 - High Density Hub",
+    "operator": "AirWave Telecom",
+    "lat": 28.5524,
+    "lng": 77.1218,
+    "azimuth": 45,
+    "coverage_m": 850,
+    "area": "Aerocity / IGI T3 Zone"
+  },
+  {
+    "cell_id": "DEL-TOW-102",
+    "name": "Connaught Place Inner Circle - Sector 2",
+    "operator": "AirWave Telecom",
+    "lat": 28.6315,
+    "lng": 77.2167,
+    "azimuth": 120,
+    "coverage_m": 600,
+    "area": "Central Delhi Commercial"
+  },
+  {
+    "cell_id": "DEL-TOW-103",
+    "name": "Chandni Chowk Old Market - Sector 1",
+    "operator": "AirWave Telecom",
+    "lat": 28.6562,
+    "lng": 77.2301,
+    "azimuth": 270,
+    "coverage_m": 500,
+    "area": "Old Delhi Transit"
+  },
+  {
+    "cell_id": "DEL-TOW-104",
+    "name": "Dhaula Kuan Junction - Microcell 9",
+    "operator": "Nexus Cellular",
+    "lat": 28.5921,
+    "lng": 77.1583,
+    "azimuth": 90,
+    "coverage_m": 1200,
+    "area": "Ring Road Arterial Corridor"
+  },
+  {
+    "cell_id": "DEL-TOW-105",
+    "name": "Karol Bagh Metro Tower - Sector 3",
+    "operator": "Nexus Cellular",
+    "lat": 28.6448,
+    "lng": 77.1895,
+    "azimuth": 180,
+    "coverage_m": 750,
+    "area": "West-Central Trade Hub"
+  },
+  {
+    "cell_id": "DEL-TOW-106",
+    "name": "South Extension Part 2 - Sector 4",
+    "operator": "AirWave Telecom",
+    "lat": 28.5714,
+    "lng": 77.2215,
+    "azimuth": 315,
+    "coverage_m": 900,
+    "area": "South Delhi Residential"
+  },
+  {
+    "cell_id": "DEL-TOW-107",
+    "name": "Noida Sector 62 IT Corridor",
+    "operator": "Nexus Cellular",
+    "lat": 28.6271,
+    "lng": 77.3725,
+    "azimuth": 60,
+    "coverage_m": 1100,
+    "area": "NCR Cyber District"
+  },
+  {
+    "cell_id": "DEL-TOW-108",
+    "name": "Cyber City Phase 2 - Tower A",
+    "operator": "Nexus Cellular",
+    "lat": 28.4947,
+    "lng": 77.0892,
+    "azimuth": 225,
+    "coverage_m": 800,
+    "area": "Gurugram Tech Belt"
+  }
+]

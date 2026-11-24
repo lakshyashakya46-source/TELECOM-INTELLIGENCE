@@ -1,0 +1,16 @@
+{
+  "name": "telecom-intelligence-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Telecom Intelligence CDR/IPDR Analysis Platform",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node test_api.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
